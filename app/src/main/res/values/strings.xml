@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clase15_TerremotoApi</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoianBkYWNydXplZGl0IiwiYSI6ImNsYWE2NXRyZDA0cGgzcHBqZDNpaDF5NGUifQ.R9lwlkLToI7GVPSzw6GQNQ</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
